@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2022-06-22T18:47:48.027Z</updated>
+  <updated>2022-06-23T03:12:50.303Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2022/06/23/Commandments/"/>
     <id>http://yoursite.com/2022/06/23/Commandments/</id>
     <published>2022-06-22T18:30:13.000Z</published>
-    <updated>2022-06-22T18:47:48.027Z</updated>
+    <updated>2022-06-23T03:12:50.303Z</updated>
     
-    <content type="html"><![CDATA[<p><em><font color="＃00DDDD">不乱于心，不困于情，不畏将来，不念过往，如此，安好。</font></em></p><p>好好学习，安排计划</p><p>不找小哥哥</p><p>不煲剧不打游戏</p><p>过教资</p><p>过雅托</p>]]></content>
+    <content type="html"><![CDATA[<p><em><font color="＃00DDDD">不乱于心，不困于情，不畏将来，不念过往，如此，安好。</font></em></p><p>好好学习，安排计划</p><p>不找小哥哥</p><p>不煲剧不打游戏</p><p>少吐槽代码</p><p>过教资</p><p>过雅托</p>]]></content>
     
     <summary type="html">
     
@@ -33,9 +33,8 @@
 &lt;p&gt;好好学习，安排计划&lt;/p&gt;
 &lt;p&gt;不找小哥哥&lt;/p&gt;
 &lt;p&gt;不煲剧不打游戏&lt;/p&gt;
+&lt;p&gt;少吐槽代码&lt;/p&gt;
 &lt;p&gt;过教资&lt;/p&gt;
-&lt;p&gt;过雅托&lt;/p&gt;
-
       
     
     </summary>
