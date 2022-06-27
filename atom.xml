@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2022-06-23T03:12:50.303Z</updated>
+  <updated>2022-06-27T08:28:20.790Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2022/06/23/Commandments/"/>
     <id>http://yoursite.com/2022/06/23/Commandments/</id>
     <published>2022-06-22T18:30:13.000Z</published>
-    <updated>2022-06-23T03:12:50.303Z</updated>
+    <updated>2022-06-27T08:28:20.790Z</updated>
     
-    <content type="html"><![CDATA[<p><em><font color="＃00DDDD">不乱于心，不困于情，不畏将来，不念过往，如此，安好。</font></em></p><p>好好学习，安排计划</p><p>不找小哥哥</p><p>不煲剧不打游戏</p><p>少吐槽代码</p><p>过教资</p><p>过雅托</p>]]></content>
+    <content type="html"><![CDATA[<p><em><font color="＃00DDDD">不乱于心，不困于情，不畏将来，不念过往，如此，安好。</font></em></p><p>好好学习，安排计划</p><p>不找小哥哥</p><p>不煲剧不打游戏</p><p>少吐槽代码</p><p>过教资</p><p>过雅托</p><p>不要和人家哔哔，关你屁事，关你屁事，关你屁事</p>]]></content>
     
     <summary type="html">
     
@@ -48,8 +48,8 @@
   
   <entry>
     <title>Record and Say ‘GOOD BYE’</title>
-    <link href="http://yoursite.com/2022/06/23/Record-and-Say-%E2%80%98GOOD-BYE%E2%80%99/"/>
-    <id>http://yoursite.com/2022/06/23/Record-and-Say-‘GOOD-BYE’/</id>
+    <link href="http://yoursite.com/2022/06/23/daily/Record-and-Say-%E2%80%98GOOD-BYE%E2%80%99/"/>
+    <id>http://yoursite.com/2022/06/23/daily/Record-and-Say-‘GOOD-BYE’/</id>
     <published>2022-06-22T17:54:21.000Z</published>
     <updated>2022-06-22T18:28:44.978Z</updated>
     
@@ -74,8 +74,8 @@
   
   <entry>
     <title>一只小仙女</title>
-    <link href="http://yoursite.com/2022/06/03/%E4%B8%80%E5%8F%AA%E5%B0%8F%E4%BB%99%E5%A5%B3/"/>
-    <id>http://yoursite.com/2022/06/03/一只小仙女/</id>
+    <link href="http://yoursite.com/2022/06/03/daily/%E4%B8%80%E5%8F%AA%E5%B0%8F%E4%BB%99%E5%A5%B3/"/>
+    <id>http://yoursite.com/2022/06/03/daily/一只小仙女/</id>
     <published>2022-06-03T06:12:06.000Z</published>
     <updated>2022-06-03T06:15:19.475Z</updated>
     
@@ -129,8 +129,8 @@
   
   <entry>
     <title>基础版DAO设计</title>
-    <link href="http://yoursite.com/2019/06/01/%E5%9F%BA%E7%A1%80%E7%89%88DAO%E8%AE%BE%E8%AE%A1/"/>
-    <id>http://yoursite.com/2019/06/01/基础版DAO设计/</id>
+    <link href="http://yoursite.com/2019/06/01/computer/%E5%9F%BA%E7%A1%80%E7%89%88DAO%E8%AE%BE%E8%AE%A1/"/>
+    <id>http://yoursite.com/2019/06/01/computer/基础版DAO设计/</id>
     <published>2019-06-01T07:39:32.000Z</published>
     <updated>2022-06-03T05:34:48.176Z</updated>
     
@@ -156,8 +156,8 @@
   
   <entry>
     <title>JVM常用参数</title>
-    <link href="http://yoursite.com/2019/05/01/JVM%E5%B8%B8%E7%94%A8%E5%8F%82%E6%95%B0/"/>
-    <id>http://yoursite.com/2019/05/01/JVM常用参数/</id>
+    <link href="http://yoursite.com/2019/05/01/computer/JVM%E5%B8%B8%E7%94%A8%E5%8F%82%E6%95%B0/"/>
+    <id>http://yoursite.com/2019/05/01/computer/JVM常用参数/</id>
     <published>2019-05-01T07:39:32.000Z</published>
     <updated>2019-07-01T14:51:49.014Z</updated>
     
@@ -183,8 +183,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/11/20/hello-world/"/>
-    <id>http://yoursite.com/2018/11/20/hello-world/</id>
+    <link href="http://yoursite.com/2018/11/20/computer/hello-world/"/>
+    <id>http://yoursite.com/2018/11/20/computer/hello-world/</id>
     <published>2018-11-20T11:34:14.000Z</published>
     <updated>2019-06-13T09:09:27.430Z</updated>
     
